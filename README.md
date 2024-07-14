@@ -11,6 +11,9 @@ By identifying patterns and correlations within the data, the model seeks to pro
 
 The main objective of this project is to Predict Anaemia from Image Pixels and Hemoglobin Levels.
 
+
+![anaemia-1536x864](https://github.com/user-attachments/assets/069d1098-a8f5-42b8-aef8-c3fb1babe46a)
+
 Dataset Description:
 
 This dataset is curated to facilitate the development of machine learning models aimed at predicting Anaemia from Image Pixels and Hemoglobin Levels.
